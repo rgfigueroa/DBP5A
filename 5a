@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<head>
+	<title>Titulo 5A</title>
+</head>
+<body style="background-color:powderblue;">
+	<h1>Mi primer ejercicio</h1>
+	
+	Numero 1 <input type="text" name="numero"></br>
+	Numero 2 <input type="text" name="numero2">
+	Numero 3 </tr> <input type="text" name="numero3">
+	<table border="1">		
+		<tr>Descripcion
+			<th>Producto</th>
+            <th>Precio</th>
+            <th>Stock</th>
+		</tr>
+		<tr>Descripcion
+			<td>Coca cola</td>
+            <td>3.0</td>
+            <td>5</td>
+		</tr>
+	</table>
+
+	<img src="Logounl1.png" alt="No existe archivo">
+
+<button name="btnUno" type="" style="background-color:yellow;"> Enviar</button>
+<button name="btnUno" type="" style="miEstilo">Enviar</button>
+
+</body>
+</html>
