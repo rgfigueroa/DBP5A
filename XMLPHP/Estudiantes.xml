@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+<ute>
+    <estudiante> 
+        <cedula>1104462856</cedula>
+        <nombre>Ximena</nombre>
+        <apellido>Tapia</apellido>
+        <celular>0959020466</celular>    
+    </estudiante>
+    <estudiante> 
+        <cedula>1104412216</cedula>
+        <nombre>Lenin</nombre>
+        <apellido>Gordillo</apellido>
+        <celular>0980085747</celular>    
+    </estudiante>
+    <estudiante> 
+        <cedula>1104372279</cedula>
+        <nombre>Pablo</nombre>
+        <apellido>Merchan</apellido>
+        <celular>0994457974</celular>    
+    </estudiante> 
+    <estudiante> 
+        <cedula>1104111164</cedula>
+        <nombre>Carlos</nombre>
+        <apellido>Pereira</apellido>
+        <celular>0981117176</celular>    
+    </estudiante>   
+</ute>
